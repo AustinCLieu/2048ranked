@@ -1,0 +1,20 @@
+# Env
+.env*
+!.env.example
+
+# Node / Next.js
+.next/
+dist/
+.out/
+
+# Java / Springboot
+target/
+build/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode
